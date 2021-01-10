@@ -1,0 +1,2 @@
+insert into pixeonricardocorotti.Healthcare_Institution (cnpj, name, coins_balance) values ('123456789-01', 'Hospital ABC', 20);
+insert into pixeonricardocorotti.Healthcare_Institution (cnpj, name, coins_balance) values ('111222333-01', 'Hospital São Paulo', 5);
